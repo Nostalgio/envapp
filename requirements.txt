@@ -1,3 +1,5 @@
-Django==1.9.5
-django-pyodbc-azure==1.9.3.0
-pyodbc==3.0.10
+ecdsa==0.13
+paramiko==1.15.0
+pycrypto==2.6.1
+requests==2.9.1
+spur==0.3.16

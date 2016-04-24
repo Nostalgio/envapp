@@ -1,0 +1,14 @@
+{
+    "demo": [
+        {
+            "hostname": "envapp.westus.cloudapp.azure.com",
+            "username": "joshua",
+            "private_key_file": "/Users/joshua/.ssh/envapp_rsa"
+        }
+    ],
+    "prod": [
+        {
+            "hostname": "..."
+        }
+    ]
+}
